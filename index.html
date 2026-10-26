@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-Hant-HK">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f8f7f2">
+    <meta name="description" content="15個家庭購物任務，HK$300預算。用一場超市挑戰，練習睇懂營養標籤。">
+    <title>Label Hero · 一家之主</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./style.css">
+    <script type="module" src="./app.js"></script>
+  <script type="application/json" id="boot-copy">{"errorTitle":"購物清單暫時未能載入","errorText":"請檢查網絡，再重新載入頁面。","reload":"重新載入"}</script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要內容</a>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Label Hero 一家之主 主頁">
+        <svg width="31" height="31" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="currentColor"/><path d="M7 13h18l-2.4 10H9.4L7 13Zm5-1 4-6 4 6M12 16v4m4-4v4m4-4v4" fill="none" stroke="var(--paper)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>Label Hero<small>一家之主</small></span>
+      </a>
+      <button type="button" class="quiet" id="guide-button">購物攻略 ↗</button>
+    </header>
+    <main id="main" tabindex="-1"><div class="loading" role="status">正在準備你的購物清單…</div></main>
+    <div id="announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+    <dialog id="guide" aria-labelledby="guide-title"><div id="guide-content"></div></dialog>
+    <footer class="site-footer" id="footer"></footer>
+    <noscript>這個遊戲需要JavaScript。請在瀏覽器設定中啟用後重新載入。</noscript>
+  </body>
+</html>
