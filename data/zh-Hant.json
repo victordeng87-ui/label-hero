@@ -1,0 +1,269 @@
+{
+  "pageTitle": "Label Hero · 一家之主",
+  "pageDescription": "15個家庭購物任務，HK$300預算。用一場超市挑戰，練習睇懂營養標籤。",
+  "brand": "Label Hero",
+  "brandChinese": "一家之主",
+  "brandHome": "Label Hero 一家之主 主頁",
+  "skip": "跳到主要內容",
+  "loading": "正在準備你的購物清單…",
+  "noscript": "這個遊戲需要JavaScript。請在瀏覽器設定中啟用後重新載入。",
+  "guide": "購物攻略 ↗",
+  "close": "關閉攻略",
+  "eyebrow": "給每一位，為家人揀餸的你",
+  "heroTitle": "揀啱一件，",
+  "heroAccent": "照顧一家。",
+  "heroText": "放工趕住買餸，平、靚、健康，點樣揀？帶住 $300 入超市，睇穿包裝上的小心機，為屋企人買得更精明。",
+  "start": "同意並開始挑戰",
+  "playPrivate": "只玩遊戲，不傳送資料 →",
+  "consent": "同意後可記錄隨機編號、答題及遊戲選擇；不收集姓名或電郵，不使用追蹤器。未設資料接收服務時，紀錄只留在本機主控台。設有接收服務時，待傳紀錄可暫存此瀏覽器，7日內重試；過期紀錄於下次啟動時移除。",
+  "consentShort": "自願匿名評估。可選擇只玩遊戲，不傳送資料。",
+  "consentLabel": "匿名評估・自願參與",
+  "stats": [
+    {
+      "value": "15",
+      "label": "個家庭任務"
+    },
+    {
+      "value": "$300",
+      "label": "全程購物預算"
+    },
+    {
+      "value": "20–30秒",
+      "label": "每關限時"
+    }
+  ],
+  "illustrationTop": "今晚食乜餸？",
+  "illustrationLabel": "先睇標籤，再落手！",
+  "bagBrand": "一家之主",
+  "bagCaption": "買得精明 · 食得安心",
+  "receiptHeading": "今日購物清單",
+  "receiptRows": [
+    "少啲糖",
+    "少啲鈉",
+    "睇清份量"
+  ],
+  "receiptFooter": "健康，從一個選擇開始。",
+  "howEyebrow": "不用背數字，練好三個習慣",
+  "howTitle": "入超市前，記住三步。",
+  "steps": [
+    {
+      "title": "睇份量",
+      "text": "每包有幾份？你會食幾多？"
+    },
+    {
+      "title": "同基準比較",
+      "text": "用每100克／毫升，先比糖、鈉、飽和脂肪。"
+    },
+    {
+      "title": "再睇配料",
+      "text": "留意致敏物，別只信包裝聲稱。"
+    }
+  ],
+  "flowNote": "先做短測 → 15關購物 → 查看收據 → 再做短測。全程約8–12分鐘。",
+  "footer": "Label Hero · 一家之主",
+  "footerNote": "香港食物標籤學習遊戲 · 虛構產品，真實練習",
+  "guideTitle": "精明購物小抄",
+  "guideIntro": "營養標籤是工具。先留意家人的需要，再作合適選擇。",
+  "guideHeading": "點樣理解標籤？",
+  "guideNotes": [
+    "一般營養標籤的「1+7」包括能量、蛋白質、碳水化合物、總脂肪、飽和脂肪、反式脂肪、鈉及糖。部分食品依法獲豁免。",
+    "比較固體與液體時要留意單位。本遊戲的高糖提示：固體每100克超過15克；液體每100毫升超過7.5克。高鈉提示：固體超過600毫克；液體超過300毫克。",
+    "以上糖和鈉的數值來自食安中心參考值，並非『超過就違法』。飽和脂肪每100克／毫升達5克的『留意』提示是本遊戲教學設定，並非香港法定高含量定義。",
+    "香港的低糖聲稱：每100克／毫升糖不超過5克；無糖不超過0.5克。低鈉：每100克／毫升鈉不超過120毫克；無鈉不超過5毫克。",
+    "低脂聲稱：固體每100克總脂肪不超過3克；液體每100毫升不超過1.5克。減少糖、脂肪或鈉的比較聲稱，還須符合相對及絕對差異要求；減鈉不等於低鈉。",
+    "無添加糖不等於無糖。少甜、天然、無味精也不能代替營養標籤。",
+    "有致敏物或『可能含有』警告時，按個人過敏需要避免選用。沒有警告不等於零風險；不確定時向供應商及醫護人員查詢。本遊戲不提供個人醫療建議。"
+  ],
+  "sourceHeading": "資料來源",
+  "sourceDate": "食物安全中心資料 · 核對日期：2026年10月26日",
+  "sources": [
+    {
+      "title": "食安中心：營養標籤及聲稱規例",
+      "url": "https://www.cfs.gov.hk/english/food_leg/food_leg_cl.html"
+    },
+    {
+      "title": "食安中心：「鹽／糖」標籤計劃及高含量參考值",
+      "url": "https://www.cfs.gov.hk/english/programme/programme_rdss/programme_Salt_Sugar_Label_Scheme.html"
+    },
+    {
+      "title": "食安中心：了解食物致敏物標籤",
+      "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_123_02.html"
+    },
+    {
+      "title": "食安中心：無加糖飲品仍可含糖",
+      "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsb_202504.html"
+    }
+  ],
+  "fictionNote": "所有產品名稱、售價及數值均為虛構教學例子。分數反映本題的教學判斷，不是官方營養評級；不同食品不能單靠每100克的數字作全面排名。",
+  "guideDuring": "遊戲計時期間打開攻略，倒數會繼續。",
+  "preEyebrow": "出發前 · 小小熱身",
+  "postEyebrow": "購物後 · 試下學到幾多",
+  "preTitle": "你有幾熟標籤？",
+  "postTitle": "再睇一次，有冇唔同？",
+  "preText": "6條知識題、2條信心題。唔識都唔緊要，按你現在的想法作答。不限時。",
+  "postText": "題目和選項次序已打亂。按你現在的想法作答，完成後看看前後的改變。不限時。",
+  "questionCount": "第 {n} / {total} 題",
+  "knowledge": "標籤知識",
+  "confidence": "你的信心",
+  "confidenceNote": "請按你現在的感受，選一個答案。",
+  "likert": [
+    "非常不同意",
+    "不同意",
+    "一般",
+    "同意",
+    "非常同意"
+  ],
+  "previous": "上一題",
+  "nextQuestion": "下一題 →",
+  "finishPre": "開始逛超市 →",
+  "finishPost": "查看學習成果 →",
+  "selectAnswer": "請先選擇一個答案。",
+  "stageNames": {
+    "basic": "基礎練習",
+    "advanced": "進階挑戰",
+    "challenge": "終極考驗"
+  },
+  "levelCount": "第 {n} / 15 關",
+  "budget": "餘下預算",
+  "time": "剩餘時間",
+  "seconds": "秒",
+  "timeAnnouncement": "剩餘 {n} 秒。",
+  "timeUpAnnouncement": "時間到，已隨機購入一件食品。",
+  "overspent": "已超支 HK${n}",
+  "exit": "離開挑戰",
+  "exitTitle": "要結束今次購物嗎？",
+  "exitText": "未完成的關卡和短測不會保留。你可以重新開始一場。",
+  "exitConfirm": "結束並返回主頁",
+  "continuePlay": "繼續購物",
+  "mission": "今關家庭任務",
+  "chooseHint": "先揭開標籤，再揀一件放入購物籃。",
+  "look": "睇營養標籤",
+  "hide": "收起標籤",
+  "pick": "放入購物籃 ＋",
+  "selected": "✓ 你的選擇",
+  "bestChoice": "★ 今題較佳選擇",
+  "otherChoice": "另一個選擇",
+  "fictionTag": "模擬產品",
+  "nutrition": "營養資料",
+  "nutrient": "能量／營養素",
+  "per100Solid": "每100克",
+  "per100Liquid": "每100毫升",
+  "perServing": "每份",
+  "perPack": "全包",
+  "serving": "每份 {size} · 每包 {n} 份",
+  "nutritionKeys": [
+    {
+      "key": "kcalPer100",
+      "name": "能量",
+      "unit": "千卡"
+    },
+    {
+      "key": "proteinPer100",
+      "name": "蛋白質",
+      "unit": "克"
+    },
+    {
+      "key": "carbsPer100",
+      "name": "碳水化合物",
+      "unit": "克"
+    },
+    {
+      "key": "sugarPer100",
+      "name": "　糖",
+      "unit": "克"
+    },
+    {
+      "key": "fatPer100",
+      "name": "總脂肪",
+      "unit": "克"
+    },
+    {
+      "key": "satFatPer100",
+      "name": "　飽和脂肪",
+      "unit": "克"
+    },
+    {
+      "key": "transFatPer100",
+      "name": "　反式脂肪",
+      "unit": "克"
+    },
+    {
+      "key": "sodiumPer100",
+      "name": "鈉",
+      "unit": "毫克"
+    },
+    {
+      "key": "cholesterolPer100",
+      "name": "膽固醇",
+      "unit": "毫克"
+    },
+    {
+      "key": "fibrePer100",
+      "name": "膳食纖維",
+      "unit": "克"
+    }
+  ],
+  "high": "▲ 高",
+  "attention": "◆ 留意",
+  "legend": "▲ 糖、鈉提示按每100克／毫升比較；◆ 飽和脂肪提示為教學設定。換算份量不會改變提示基準。",
+  "ingredients": "配料及致敏物資料",
+  "feedbackBest": "揀得好，今次照顧到家人的需要。",
+  "feedbackOther": "一齊睇下，有冇更合適的選擇。",
+  "feedbackTimeout": "時間到！今次由超市幫你揀。",
+  "timeoutText": "已隨機購入「{name}」。按遊戲規則固定扣HK$15、記30分，並非該產品的售價或評級。下關試下先看家人需要，再找重點。",
+  "levelScore": "今關教學分數 {n} / 100",
+  "tip": "帶走一個小貼士",
+  "nextLevel": "前往下一區 →",
+  "toResults": "查看購物收據 →",
+  "resultEyebrow": "15關完成 · 你的一籃成果",
+  "resultTitle": "今日，你為屋企揀咗…",
+  "verdicts": [
+    "label 高手",
+    "有進步空間",
+    "小心荷包以外的代價"
+  ],
+  "average": "平均教學分數",
+  "bestCount": "較佳選擇",
+  "budgetLeft": "預算結餘",
+  "spent": "實際支出",
+  "timeoutCount": "次超時",
+  "recap": "打開你的購物收據",
+  "recapNote": "每個選擇，都係下一次揀得更好的開始。",
+  "reviewBest": "可再考慮：{name}",
+  "timeoutBadge": "超時自動購入",
+  "recapScore": "{n} 分",
+  "downloadCard": "儲存成果卡 ↓",
+  "downloadData": "下載本次匿名紀錄（JSON）",
+  "downloadReady": "成果卡已準備下載。",
+  "downloadError": "未能下載，請使用瀏覽器的截圖功能。",
+  "postButton": "完成最後短測 →",
+  "thankEyebrow": "任務完成 · 把習慣帶返屋企",
+  "thankTitle": "下一次買餸，\n你會睇多一眼。",
+  "thankText": "多謝你完成挑戰。健康選擇不需要每次完美；由睇份量、同基準比較、再睇配料開始。",
+  "learning": "你的學習變化",
+  "before": "遊戲前",
+  "after": "遊戲後",
+  "knowledgeScore": "知識答對題數（滿分6）",
+  "efficacyScore": "平均信心（滿分5）",
+  "change": "改變",
+  "answers": "知識題答案與解說",
+  "correct": "✓ 答對了",
+  "incorrect": "再記住這一點",
+  "yourAnswer": "你的答案：{answer}",
+  "rightAnswer": "參考答案：{answer}",
+  "survey": "填寫跟進問卷 ↗",
+  "surveyUnavailable": "跟進問卷尚未開放。你仍然可以儲存成果，或再挑戰一次。",
+  "playAgain": "再挑戰一次 →",
+  "loggingLocal": "本次紀錄只在本機；未設定資料接收服務。",
+  "loggingOff": "你選擇不傳送資料。本次遊戲不會記錄研究事件。",
+  "loggingSent": "本次匿名紀錄已送出。",
+  "loggingPending": "有匿名紀錄等待傳送；網絡恢復後會重試。",
+  "clearData": "清除此瀏覽器的待傳紀錄",
+  "dataCleared": "已清除待傳紀錄，並停止本次傳送。",
+  "errorTitle": "購物清單暫時未能載入",
+  "errorText": "請檢查網絡，再重新載入頁面。",
+  "reload": "重新載入",
+  "cardTitle": "我的精明購物成果",
+  "cardSubtitle": "15個家庭任務 · HK$300預算",
+  "cardFoot": "虛構教學產品 · 分數並非官方營養評級"
+}
