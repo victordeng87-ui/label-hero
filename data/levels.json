@@ -1,0 +1,1607 @@
+[
+  {
+    "id": 1,
+    "stage": "basic",
+    "title": "飲品區",
+    "familyFace": "👨",
+    "need": "爸爸想減少飲品中的糖。放工返屋企，幫佢揀一支解渴飲品。",
+    "tip": "先用每100毫升比較糖，再乘以全樽容量。少甜不等於低糖。",
+    "timeSec": 30,
+    "products": [
+      {
+        "name": "無糖氣泡水",
+        "emoji": "🫧",
+        "price": 8,
+        "claim": "無糖",
+        "health": 96,
+        "why": "每100毫升含0克糖，整樽也沒有糖。想解渴，無糖飲品是合適選擇。",
+        "ingredients": "水、二氧化碳。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 2,
+          "kcalPer100": 0,
+          "proteinPer100": 0,
+          "carbsPer100": 0,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 2,
+          "sugarPer100": 0,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L01-1",
+        "isBest": true
+      },
+      {
+        "name": "少甜檸檬茶",
+        "emoji": "🍋",
+        "price": 9,
+        "claim": "少甜",
+        "health": 55,
+        "why": "少甜是味覺描述，不代表低糖。每100毫升有6克糖，500毫升一樽就是30克糖。",
+        "ingredients": "水、糖、紅茶、檸檬汁。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 2,
+          "kcalPer100": 24,
+          "proteinPer100": 0,
+          "carbsPer100": 6,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 8,
+          "sugarPer100": 6,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L01-2",
+        "isBest": false
+      },
+      {
+        "name": "經典汽水",
+        "emoji": "🥤",
+        "price": 6,
+        "claim": "冰涼暢快",
+        "health": 25,
+        "why": "每100毫升含10.6克糖，330毫升一罐約35克糖；便宜也要計埋整罐的分量。",
+        "ingredients": "碳酸水、糖、酸度調節劑、香料。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "330毫升",
+          "servingAmount": 330,
+          "servingsPerPack": 1,
+          "kcalPer100": 42,
+          "proteinPer100": 0,
+          "carbsPer100": 10.6,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 10,
+          "sugarPer100": 10.6,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L01-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "stage": "basic",
+    "title": "早餐穀物區",
+    "familyFace": "👩",
+    "need": "媽媽想食少啲糖，又想早餐飽肚。揀一款可以配牛奶的穀物。",
+    "tip": "全穀物是配料資訊；有沒有額外加糖，要再睇營養標籤及配料表。",
+    "timeSec": 30,
+    "products": [
+      {
+        "name": "原味燕麥片",
+        "emoji": "🥣",
+        "price": 22,
+        "claim": "100%燕麥",
+        "health": 94,
+        "why": "配料只有燕麥，每100克只有1克糖，沒有額外加糖。按食量取用，再配無糖奶類。",
+        "ingredients": "燕麥。含有麩質的穀類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "40克",
+          "servingAmount": 40,
+          "servingsPerPack": 10,
+          "kcalPer100": 380,
+          "proteinPer100": 13,
+          "carbsPer100": 62,
+          "fatPer100": 7,
+          "satFatPer100": 1.2,
+          "transFatPer100": 0,
+          "sodiumPer100": 5,
+          "sugarPer100": 1,
+          "cholesterolPer100": 0,
+          "fibrePer100": 10
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L02-1",
+        "isBest": true
+      },
+      {
+        "name": "全穀物脆片",
+        "emoji": "🌾",
+        "price": 28,
+        "claim": "全穀物",
+        "health": 58,
+        "why": "全穀物也可以加入大量糖。這款每100克有22克糖，不能只靠包裝字眼判斷。",
+        "ingredients": "全穀小麥、糖、玉米、麥芽糖漿、鹽。含麩質。",
+        "form": "solid",
+        "label": {
+          "servingSize": "40克",
+          "servingAmount": 40,
+          "servingsPerPack": 8,
+          "kcalPer100": 380,
+          "proteinPer100": 8,
+          "carbsPer100": 78,
+          "fatPer100": 4,
+          "satFatPer100": 0.7,
+          "transFatPer100": 0,
+          "sodiumPer100": 320,
+          "sugarPer100": 22,
+          "cholesterolPer100": 0,
+          "fibrePer100": 6
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L02-2",
+        "isBest": false
+      },
+      {
+        "name": "朱古力脆米",
+        "emoji": "🍫",
+        "price": 19,
+        "claim": "香脆可口",
+        "health": 30,
+        "why": "每100克有32克糖和450毫克鈉。相同份量下，原味燕麥的糖和鈉少得多。",
+        "ingredients": "米、糖、可可粉、麥芽糖漿、鹽。可能含有奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "30克",
+          "servingAmount": 30,
+          "servingsPerPack": 10,
+          "kcalPer100": 390,
+          "proteinPer100": 6,
+          "carbsPer100": 83,
+          "fatPer100": 4,
+          "satFatPer100": 1.7,
+          "transFatPer100": 0,
+          "sodiumPer100": 450,
+          "sugarPer100": 32,
+          "cholesterolPer100": 0,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L02-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "stage": "basic",
+    "title": "零食區",
+    "familyFace": "👵",
+    "need": "婆婆想揀一份無額外加糖的零食，份量大約一小把。",
+    "tip": "無添加糖也可能有天然糖；堅果的總脂肪較高，仍需留意食用份量。",
+    "timeSec": 30,
+    "products": [
+      {
+        "name": "原味烘焙堅果",
+        "emoji": "🥜",
+        "price": 26,
+        "claim": "無加鹽",
+        "health": 88,
+        "why": "每100克糖4克、鈉5毫克，沒有額外加糖或鹽。脂肪含量高，取約25克一小把就好。",
+        "ingredients": "杏仁、腰果、核桃。含木本堅果；可能含有花生。",
+        "form": "solid",
+        "label": {
+          "servingSize": "25克",
+          "servingAmount": 25,
+          "servingsPerPack": 4,
+          "kcalPer100": 610,
+          "proteinPer100": 20,
+          "carbsPer100": 16,
+          "fatPer100": 52,
+          "satFatPer100": 4.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 5,
+          "sugarPer100": 4,
+          "cholesterolPer100": 0,
+          "fibrePer100": 8
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L03-1",
+        "isBest": true
+      },
+      {
+        "name": "低脂香脆薯片",
+        "emoji": "🥔",
+        "price": 15,
+        "claim": "低脂",
+        "health": 48,
+        "why": "低脂只說明脂肪含量。這款每100克仍有720毫克鈉，不適合只憑低脂字眼就多食。",
+        "ingredients": "薯粉、米粉、鹽、植物油、調味料。可能含有奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "25克",
+          "servingAmount": 25,
+          "servingsPerPack": 4,
+          "kcalPer100": 360,
+          "proteinPer100": 6,
+          "carbsPer100": 78,
+          "fatPer100": 2.8,
+          "satFatPer100": 0.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 720,
+          "sugarPer100": 4,
+          "cholesterolPer100": 0,
+          "fibrePer100": 3
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L03-2",
+        "isBest": false
+      },
+      {
+        "name": "原味芒果乾",
+        "emoji": "🥭",
+        "price": 18,
+        "claim": "無添加糖",
+        "health": 50,
+        "why": "沒有額外加糖，不代表糖少。水分減少後，這款每100克有60克天然糖，應控制份量。",
+        "ingredients": "芒果。",
+        "form": "solid",
+        "label": {
+          "servingSize": "25克",
+          "servingAmount": 25,
+          "servingsPerPack": 4,
+          "kcalPer100": 310,
+          "proteinPer100": 2,
+          "carbsPer100": 75,
+          "fatPer100": 1,
+          "satFatPer100": 0.2,
+          "transFatPer100": 0,
+          "sodiumPer100": 10,
+          "sugarPer100": 60,
+          "cholesterolPer100": 0,
+          "fibrePer100": 7
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L03-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "stage": "basic",
+    "title": "罐頭區",
+    "familyFace": "👨",
+    "need": "爸爸想減少鈉攝取。幫佢揀一款用來整三文治的罐頭食品。",
+    "tip": "無味精不等於低鈉。鈉亦可以來自食鹽和其他配料。",
+    "timeSec": 30,
+    "products": [
+      {
+        "name": "減鈉吞拿魚",
+        "emoji": "🐟",
+        "price": 16,
+        "claim": "較原版減鈉50%",
+        "health": 93,
+        "why": "每100克有180毫克鈉，低於另外兩款。相對模擬原版360毫克減少50%，但不等於低鈉。",
+        "ingredients": "吞拿魚、水、鹽。含魚類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "70克",
+          "servingAmount": 70,
+          "servingsPerPack": 2,
+          "kcalPer100": 110,
+          "proteinPer100": 24,
+          "carbsPer100": 0,
+          "fatPer100": 1.5,
+          "satFatPer100": 0.4,
+          "transFatPer100": 0,
+          "sodiumPer100": 180,
+          "sugarPer100": 0,
+          "cholesterolPer100": 35,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L04-1",
+        "isBest": true
+      },
+      {
+        "name": "蔬菜濃湯",
+        "emoji": "🥫",
+        "price": 14,
+        "claim": "無味精",
+        "health": 52,
+        "why": "沒有味精仍然可以含很多鈉。每100毫升有360毫克鈉，一罐300毫升就有1080毫克。",
+        "ingredients": "水、蔬菜、奶油、麵粉、鹽。含奶類及麩質。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "150毫升",
+          "servingAmount": 150,
+          "servingsPerPack": 2,
+          "kcalPer100": 55,
+          "proteinPer100": 1,
+          "carbsPer100": 7,
+          "fatPer100": 2.5,
+          "satFatPer100": 1.3,
+          "transFatPer100": 0,
+          "sodiumPer100": 360,
+          "sugarPer100": 2,
+          "cholesterolPer100": 5,
+          "fibrePer100": 1
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L04-2",
+        "isBest": false
+      },
+      {
+        "name": "午餐肉",
+        "emoji": "🥓",
+        "price": 13,
+        "claim": "經典滋味",
+        "health": 25,
+        "why": "每100克含950毫克鈉及9克飽和脂肪。用來做三文治時，也要計實際用量。",
+        "ingredients": "豬肉、水、澱粉、鹽、糖、防腐劑。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 4,
+          "kcalPer100": 300,
+          "proteinPer100": 12,
+          "carbsPer100": 7,
+          "fatPer100": 25,
+          "satFatPer100": 9,
+          "transFatPer100": 0.1,
+          "sodiumPer100": 950,
+          "sugarPer100": 1,
+          "cholesterolPer100": 70,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L04-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "stage": "basic",
+    "title": "麵包區",
+    "familyFace": "👦",
+    "need": "弟弟想揀日常早餐麵包。除了纖維，也要顧及糖和鈉。",
+    "tip": "「高纖」並不能代替整張營養標籤。比較同樣100克，再計每次食幾片。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "全麥麵包",
+        "emoji": "🍞",
+        "price": 24,
+        "claim": "全麥粉為首項配料",
+        "health": 92,
+        "why": "每100克糖4克、鈉300毫克，比另外兩款低。全麥粉排第一，可作配料比較的線索。",
+        "ingredients": "全麥麵粉、水、酵母、植物油、糖、鹽。含麩質。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 8,
+          "kcalPer100": 240,
+          "proteinPer100": 10,
+          "carbsPer100": 42,
+          "fatPer100": 3.5,
+          "satFatPer100": 0.6,
+          "transFatPer100": 0,
+          "sodiumPer100": 300,
+          "sugarPer100": 4,
+          "cholesterolPer100": 0,
+          "fibrePer100": 6
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L05-1",
+        "isBest": true
+      },
+      {
+        "name": "高纖麵包",
+        "emoji": "🌾",
+        "price": 20,
+        "claim": "高纖",
+        "health": 62,
+        "why": "這款膳食纖維每100克有7克，但糖9克、鈉480毫克。高纖不代表其他營養素都更理想。",
+        "ingredients": "小麥粉、水、麥麩、糖、植物油、酵母、鹽。含麩質。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 8,
+          "kcalPer100": 260,
+          "proteinPer100": 9,
+          "carbsPer100": 46,
+          "fatPer100": 4.5,
+          "satFatPer100": 1,
+          "transFatPer100": 0,
+          "sodiumPer100": 480,
+          "sugarPer100": 9,
+          "cholesterolPer100": 0,
+          "fibrePer100": 7
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L05-2",
+        "isBest": false
+      },
+      {
+        "name": "白方包",
+        "emoji": "🍞",
+        "price": 12,
+        "claim": "超值家庭裝",
+        "health": 45,
+        "why": "價錢較低，但每100克含520毫克鈉。比較後，全麥麵包更切合今次同時顧及糖鈉的目標。",
+        "ingredients": "小麥粉、水、糖、植物油、酵母、鹽。含麩質。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 8,
+          "kcalPer100": 270,
+          "proteinPer100": 8,
+          "carbsPer100": 50,
+          "fatPer100": 4,
+          "satFatPer100": 1.2,
+          "transFatPer100": 0,
+          "sodiumPer100": 520,
+          "sugarPer100": 7,
+          "cholesterolPer100": 0,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L05-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "stage": "advanced",
+    "title": "奶類區",
+    "familyFace": "👩",
+    "need": "媽媽想買一款沒有額外加糖的日常奶類飲品，亦想減少飽和脂肪。",
+    "tip": "奶中的乳糖也會計入「糖」。有糖不一定等於有額外加糖，要配合配料表。",
+    "timeSec": 25,
+    "products": [
+      {
+        "name": "低脂純牛奶",
+        "emoji": "🥛",
+        "price": 13,
+        "claim": "低脂",
+        "health": 92,
+        "why": "配料只有牛奶，4.8克糖來自乳糖；每100毫升總脂肪1.3克、飽和脂肪0.8克。",
+        "ingredients": "牛奶。含奶類。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 1,
+          "kcalPer100": 46,
+          "proteinPer100": 3.4,
+          "carbsPer100": 4.8,
+          "fatPer100": 1.3,
+          "satFatPer100": 0.8,
+          "transFatPer100": 0,
+          "sodiumPer100": 45,
+          "sugarPer100": 4.8,
+          "cholesterolPer100": 5,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L06-1",
+        "isBest": true
+      },
+      {
+        "name": "乳酸飲品",
+        "emoji": "🧃",
+        "price": 8,
+        "claim": "含益生菌",
+        "health": 42,
+        "why": "含益生菌不代表低糖。這款每100毫升含15克糖，應先睇營養標籤。",
+        "ingredients": "水、糖、脫脂奶粉、乳酸菌。含奶類。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "100毫升",
+          "servingAmount": 100,
+          "servingsPerPack": 1,
+          "kcalPer100": 65,
+          "proteinPer100": 1,
+          "carbsPer100": 15,
+          "fatPer100": 0.1,
+          "satFatPer100": 0.1,
+          "transFatPer100": 0,
+          "sodiumPer100": 40,
+          "sugarPer100": 15,
+          "cholesterolPer100": 1,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L06-2",
+        "isBest": false
+      },
+      {
+        "name": "朱古力奶",
+        "emoji": "🍫",
+        "price": 10,
+        "claim": "香濃可可",
+        "health": 48,
+        "why": "除了牛奶本身的乳糖，配料亦有糖。每100毫升糖10克、飽和脂肪1.4克。",
+        "ingredients": "牛奶、糖、可可粉。含奶類。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 1,
+          "kcalPer100": 78,
+          "proteinPer100": 3,
+          "carbsPer100": 10,
+          "fatPer100": 2.8,
+          "satFatPer100": 1.4,
+          "transFatPer100": 0,
+          "sodiumPer100": 55,
+          "sugarPer100": 10,
+          "cholesterolPer100": 10,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L06-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "stage": "advanced",
+    "title": "調味料區",
+    "familyFace": "👨",
+    "need": "爸爸下廚想少啲鹽。揀一款調味料，並記住每次只用少量。",
+    "tip": "減鈉是相對比較，不等於低鈉。豉油即使減鈉，仍然要少量使用。",
+    "timeSec": 25,
+    "products": [
+      {
+        "name": "減鈉生抽",
+        "emoji": "🫙",
+        "price": 19,
+        "claim": "較原版減鈉40%",
+        "health": 85,
+        "why": "每100毫升鈉3600毫克，低於模擬原版6000毫克及另外兩款。每次5毫升仍有180毫克鈉。",
+        "ingredients": "水、大豆、小麥、鹽。含大豆及麩質。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "5毫升",
+          "servingAmount": 5,
+          "servingsPerPack": 40,
+          "kcalPer100": 40,
+          "proteinPer100": 5,
+          "carbsPer100": 5,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 3600,
+          "sugarPer100": 2,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L07-1",
+        "isBest": true
+      },
+      {
+        "name": "天然釀造蠔油",
+        "emoji": "🦪",
+        "price": 15,
+        "claim": "天然釀造",
+        "health": 42,
+        "why": "天然是製作描述，不是低鈉保證。每100毫升有4200毫克鈉，要按用量計算。",
+        "ingredients": "水、糖、蠔汁、鹽、澱粉。含軟體動物。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "5毫升",
+          "servingAmount": 5,
+          "servingsPerPack": 40,
+          "kcalPer100": 100,
+          "proteinPer100": 2,
+          "carbsPer100": 23,
+          "fatPer100": 0.2,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 4200,
+          "sugarPer100": 18,
+          "cholesterolPer100": 3,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L07-2",
+        "isBest": false
+      },
+      {
+        "name": "照燒汁",
+        "emoji": "🍶",
+        "price": 11,
+        "claim": "一汁入味",
+        "health": 30,
+        "why": "每100毫升含5000毫克鈉及30克糖。價錢便宜，但今次減鈉目標下較不合適。",
+        "ingredients": "豉油、糖、水、味醂。含大豆及麩質。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "5毫升",
+          "servingAmount": 5,
+          "servingsPerPack": 40,
+          "kcalPer100": 140,
+          "proteinPer100": 3,
+          "carbsPer100": 32,
+          "fatPer100": 0.2,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 5000,
+          "sugarPer100": 30,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L07-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "stage": "advanced",
+    "title": "麵食區",
+    "familyFace": "👦",
+    "need": "弟弟想整一碗清淡午餐。比較未烹調、連調味包的麵食標籤。",
+    "tip": "非油炸只描述製法。調味包可以帶來很多鈉；看清標籤是否計入調味料。",
+    "timeSec": 25,
+    "products": [
+      {
+        "name": "原味蕎麥麵",
+        "emoji": "🍜",
+        "price": 18,
+        "claim": "不附調味包",
+        "health": 91,
+        "why": "每100克鈉80毫克、飽和脂肪0.3克。自己加菜和蛋白質，調味料少量用。",
+        "ingredients": "小麥粉、蕎麥粉、水。含麩質及蕎麥。",
+        "form": "solid",
+        "label": {
+          "servingSize": "80克",
+          "servingAmount": 80,
+          "servingsPerPack": 3,
+          "kcalPer100": 340,
+          "proteinPer100": 12,
+          "carbsPer100": 68,
+          "fatPer100": 2,
+          "satFatPer100": 0.3,
+          "transFatPer100": 0,
+          "sodiumPer100": 80,
+          "sugarPer100": 2,
+          "cholesterolPer100": 0,
+          "fibrePer100": 5
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L08-1",
+        "isBest": true
+      },
+      {
+        "name": "非油炸即食麵",
+        "emoji": "🍜",
+        "price": 14,
+        "claim": "非油炸",
+        "health": 52,
+        "why": "脂肪較少，卻不代表低鈉。數值已包括調味包，每100克含1500毫克鈉。",
+        "ingredients": "小麥粉、澱粉、鹽、調味粉。含麩質及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "80克",
+          "servingAmount": 80,
+          "servingsPerPack": 1,
+          "kcalPer100": 360,
+          "proteinPer100": 9,
+          "carbsPer100": 70,
+          "fatPer100": 4.5,
+          "satFatPer100": 1.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 1500,
+          "sugarPer100": 3,
+          "cholesterolPer100": 0,
+          "fibrePer100": 3
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L08-2",
+        "isBest": false
+      },
+      {
+        "name": "香濃杯麵",
+        "emoji": "🍜",
+        "price": 9,
+        "claim": "熱水即食",
+        "health": 25,
+        "why": "每100克含1800毫克鈉及8克飽和脂肪。已包括全部調味料，應避免飲盡湯底。",
+        "ingredients": "小麥粉、棕櫚油、鹽、調味粉。含麩質、奶類及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "75克",
+          "servingAmount": 75,
+          "servingsPerPack": 1,
+          "kcalPer100": 450,
+          "proteinPer100": 8,
+          "carbsPer100": 60,
+          "fatPer100": 20,
+          "satFatPer100": 8,
+          "transFatPer100": 0,
+          "sodiumPer100": 1800,
+          "sugarPer100": 4,
+          "cholesterolPer100": 0,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L08-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "stage": "advanced",
+    "title": "肉類區",
+    "familyFace": "👩",
+    "need": "媽媽想買晚餐的蛋白質食材，希望鈉和飽和脂肪都較少。",
+    "tip": "「雞肉90%」只是配料比例。加工肉類仍可有較多鈉，要睇實際數字。",
+    "timeSec": 25,
+    "products": [
+      {
+        "name": "原味急凍雞胸肉",
+        "emoji": "🍗",
+        "price": 22,
+        "claim": "無醃製",
+        "health": 96,
+        "why": "每100克蛋白質23克，鈉50毫克、飽和脂肪0.5克。沒有醃製，較容易控制調味。",
+        "ingredients": "雞胸肉。需徹底煮熟。",
+        "form": "solid",
+        "label": {
+          "servingSize": "100克",
+          "servingAmount": 100,
+          "servingsPerPack": 2,
+          "kcalPer100": 110,
+          "proteinPer100": 23,
+          "carbsPer100": 0,
+          "fatPer100": 2,
+          "satFatPer100": 0.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 50,
+          "sugarPer100": 0,
+          "cholesterolPer100": 65,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L09-1",
+        "isBest": true
+      },
+      {
+        "name": "雞肉腸",
+        "emoji": "🌭",
+        "price": 16,
+        "claim": "雞肉90%",
+        "health": 50,
+        "why": "雞肉比例高，仍然可以加入鹽。每100克鈉750毫克，遠高於原味雞胸肉。",
+        "ingredients": "雞肉、水、鹽、澱粉、香辛料、防腐劑。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 4,
+          "kcalPer100": 190,
+          "proteinPer100": 15,
+          "carbsPer100": 5,
+          "fatPer100": 12,
+          "satFatPer100": 3.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 750,
+          "sugarPer100": 2,
+          "cholesterolPer100": 60,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L09-2",
+        "isBest": false
+      },
+      {
+        "name": "煙肉",
+        "emoji": "🥓",
+        "price": 14,
+        "claim": "煙燻風味",
+        "health": 22,
+        "why": "每100克鈉1200毫克、飽和脂肪12克。這次想減鈉及飽和脂肪，應優先選未醃製食材。",
+        "ingredients": "豬肉、鹽、糖、煙燻香料、防腐劑。",
+        "form": "solid",
+        "label": {
+          "servingSize": "50克",
+          "servingAmount": 50,
+          "servingsPerPack": 4,
+          "kcalPer100": 400,
+          "proteinPer100": 15,
+          "carbsPer100": 2,
+          "fatPer100": 37,
+          "satFatPer100": 12,
+          "transFatPer100": 0.1,
+          "sodiumPer100": 1200,
+          "sugarPer100": 1,
+          "cholesterolPer100": 80,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L09-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "stage": "advanced",
+    "title": "餐間小食區",
+    "familyFace": "👨",
+    "need": "爸爸加班前想補充少量蛋白質，避免同時飲入太多糖。",
+    "tip": "蛋白質聲稱不代表糖和飽和脂肪都低。先想清楚需要，再睇整張標籤。",
+    "timeSec": 25,
+    "products": [
+      {
+        "name": "無糖豆漿",
+        "emoji": "🫘",
+        "price": 9,
+        "claim": "無加糖",
+        "health": 93,
+        "why": "每100毫升蛋白質3.5克，糖0.3克來自大豆本身。沒有額外加糖，適合今次需要。",
+        "ingredients": "水、大豆。含大豆。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 1,
+          "kcalPer100": 35,
+          "proteinPer100": 3.5,
+          "carbsPer100": 1,
+          "fatPer100": 1.9,
+          "satFatPer100": 0.3,
+          "transFatPer100": 0,
+          "sodiumPer100": 12,
+          "sugarPer100": 0.3,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0.6
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L10-1",
+        "isBest": true
+      },
+      {
+        "name": "蛋白質能量棒",
+        "emoji": "🍫",
+        "price": 18,
+        "claim": "補充蛋白質",
+        "health": 60,
+        "why": "有蛋白質，也有糖。每100克糖24克、飽和脂肪7克，不能只看包裝正面的聲稱。",
+        "ingredients": "燕麥、糖漿、乳清蛋白、植物油、可可。含奶類、麩質及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "40克",
+          "servingAmount": 40,
+          "servingsPerPack": 1,
+          "kcalPer100": 410,
+          "proteinPer100": 25,
+          "carbsPer100": 40,
+          "fatPer100": 16,
+          "satFatPer100": 7,
+          "transFatPer100": 0,
+          "sodiumPer100": 240,
+          "sugarPer100": 24,
+          "cholesterolPer100": 10,
+          "fibrePer100": 5
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L10-2",
+        "isBest": false
+      },
+      {
+        "name": "朱古力威化",
+        "emoji": "🍫",
+        "price": 8,
+        "claim": "香脆夾心",
+        "health": 25,
+        "why": "每100克糖38克、蛋白質只有5克。雖然平一蚊，卻不太切合補充蛋白質兼少糖的需要。",
+        "ingredients": "糖、小麥粉、植物油、可可、奶粉。含麩質、奶類及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "30克",
+          "servingAmount": 30,
+          "servingsPerPack": 1,
+          "kcalPer100": 520,
+          "proteinPer100": 5,
+          "carbsPer100": 65,
+          "fatPer100": 27,
+          "satFatPer100": 14,
+          "transFatPer100": 0.1,
+          "sodiumPer100": 180,
+          "sugarPer100": 38,
+          "cholesterolPer100": 3,
+          "fibrePer100": 1
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L10-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "stage": "challenge",
+    "title": "便利店午餐區",
+    "familyFace": "👩",
+    "need": "媽媽趕時間買午餐，想有菜和蛋白質，亦想減少鈉。",
+    "tip": "同樣100克用來比較；一整餐的鈉，則要乘以實際食用份量。沙律醬也要計。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "雞胸蔬菜沙律",
+        "emoji": "🥗",
+        "price": 28,
+        "claim": "醬汁另附",
+        "health": 91,
+        "why": "連附上的少量醬汁，每100克鈉180毫克。一盒250克約450毫克，亦有菜和雞胸肉。",
+        "ingredients": "生菜、雞胸肉、粟米、番茄、油醋汁。醬汁含大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "250克",
+          "servingAmount": 250,
+          "servingsPerPack": 1,
+          "kcalPer100": 95,
+          "proteinPer100": 10,
+          "carbsPer100": 7,
+          "fatPer100": 3,
+          "satFatPer100": 0.6,
+          "transFatPer100": 0,
+          "sodiumPer100": 180,
+          "sugarPer100": 2,
+          "cholesterolPer100": 40,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L11-1",
+        "isBest": true
+      },
+      {
+        "name": "吞拿魚飯糰",
+        "emoji": "🍙",
+        "price": 12,
+        "claim": "輕便之選",
+        "health": 63,
+        "why": "每100克鈉380毫克。一個110克約418毫克，但蔬菜及蛋白質份量較少，可另配蔬菜。",
+        "ingredients": "米、吞拿魚、蛋黃醬、紫菜、鹽。含魚類、蛋及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "110克",
+          "servingAmount": 110,
+          "servingsPerPack": 1,
+          "kcalPer100": 190,
+          "proteinPer100": 5,
+          "carbsPer100": 30,
+          "fatPer100": 5,
+          "satFatPer100": 0.8,
+          "transFatPer100": 0,
+          "sodiumPer100": 380,
+          "sugarPer100": 2,
+          "cholesterolPer100": 15,
+          "fibrePer100": 0.8
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L11-2",
+        "isBest": false
+      },
+      {
+        "name": "炸雞腿便當",
+        "emoji": "🍱",
+        "price": 22,
+        "claim": "足料大滿足",
+        "health": 32,
+        "why": "每100克鈉650毫克；400克一盒約2600毫克。整盒的分量，會放大鈉攝取量。",
+        "ingredients": "米、雞腿、小麥粉、植物油、醬汁。含麩質、大豆及蛋。",
+        "form": "solid",
+        "label": {
+          "servingSize": "400克",
+          "servingAmount": 400,
+          "servingsPerPack": 1,
+          "kcalPer100": 230,
+          "proteinPer100": 9,
+          "carbsPer100": 27,
+          "fatPer100": 10,
+          "satFatPer100": 3,
+          "transFatPer100": 0,
+          "sodiumPer100": 650,
+          "sugarPer100": 3,
+          "cholesterolPer100": 45,
+          "fibrePer100": 1
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L11-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "stage": "challenge",
+    "title": "配料與致敏物區",
+    "familyFace": "👧",
+    "need": "妹妹對花生過敏。除了配料表，請檢查「可能含有」的警告。",
+    "tip": "「無添加花生」不能排除交叉接觸。沒有警告也不保證安全；不確定就先向供應商及醫護人員查詢。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "蘋果乾條",
+        "emoji": "🍎",
+        "price": 16,
+        "claim": "單一配料",
+        "health": 94,
+        "why": "本教學情境已向供應商確認：不使用花生，並有花生交叉接觸控制。較符合本題需要，並非對真實產品的安全保證。",
+        "ingredients": "蘋果。本虛構情境的供應商已確認不使用花生，並有花生交叉接觸控制。",
+        "form": "solid",
+        "label": {
+          "servingSize": "20克",
+          "servingAmount": 20,
+          "servingsPerPack": 3,
+          "kcalPer100": 300,
+          "proteinPer100": 1,
+          "carbsPer100": 73,
+          "fatPer100": 0.5,
+          "satFatPer100": 0.1,
+          "transFatPer100": 0,
+          "sodiumPer100": 5,
+          "sugarPer100": 58,
+          "cholesterolPer100": 0,
+          "fibrePer100": 8
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L12-1",
+        "isBest": true
+      },
+      {
+        "name": "朱古力脆條",
+        "emoji": "🍫",
+        "price": 10,
+        "claim": "無添加花生",
+        "health": 15,
+        "why": "配料沒有花生，卻寫着「可能含有花生」。對花生過敏人士有風險，本題不要選。",
+        "ingredients": "糖、米、可可脂、奶粉。含奶類；可能含有花生。",
+        "form": "solid",
+        "label": {
+          "servingSize": "25克",
+          "servingAmount": 25,
+          "servingsPerPack": 2,
+          "kcalPer100": 500,
+          "proteinPer100": 6,
+          "carbsPer100": 65,
+          "fatPer100": 24,
+          "satFatPer100": 13,
+          "transFatPer100": 0,
+          "sodiumPer100": 120,
+          "sugarPer100": 35,
+          "cholesterolPer100": 10,
+          "fibrePer100": 1
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L12-2",
+        "isBest": false
+      },
+      {
+        "name": "杏仁燕麥曲奇",
+        "emoji": "🍪",
+        "price": 13,
+        "claim": "手作風味",
+        "health": 10,
+        "why": "除了杏仁，配料明確有花生醬。重點是閱讀完整配料，而不是單憑產品名稱作決定。",
+        "ingredients": "小麥粉、燕麥、牛油、糖、杏仁、花生醬。含麩質、奶類、木本堅果及花生。",
+        "form": "solid",
+        "label": {
+          "servingSize": "25克",
+          "servingAmount": 25,
+          "servingsPerPack": 4,
+          "kcalPer100": 470,
+          "proteinPer100": 9,
+          "carbsPer100": 55,
+          "fatPer100": 24,
+          "satFatPer100": 9,
+          "transFatPer100": 0.1,
+          "sodiumPer100": 260,
+          "sugarPer100": 22,
+          "cholesterolPer100": 35,
+          "fibrePer100": 4
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L12-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "stage": "challenge",
+    "title": "冷凍餐區",
+    "familyFace": "👨",
+    "need": "爸爸今晚一個人食飯。幫佢揀一份鈉和飽和脂肪較少的急凍餐。",
+    "tip": "少油不一定低鈉。比較每100克之後，別忘記一盒可能不止一份。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "蒸魚配時蔬",
+        "emoji": "🐟",
+        "price": 32,
+        "claim": "蒸煮料理",
+        "health": 94,
+        "why": "每100克鈉200毫克、飽和脂肪0.5克；300克全盒有600毫克鈉，比另外兩款低。",
+        "ingredients": "魚、米飯、西蘭花、紅蘿蔔、植物油、鹽。含魚類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "150克",
+          "servingAmount": 150,
+          "servingsPerPack": 2,
+          "kcalPer100": 110,
+          "proteinPer100": 10,
+          "carbsPer100": 15,
+          "fatPer100": 1,
+          "satFatPer100": 0.5,
+          "transFatPer100": 0,
+          "sodiumPer100": 200,
+          "sugarPer100": 1,
+          "cholesterolPer100": 35,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L13-1",
+        "isBest": true
+      },
+      {
+        "name": "少油微波焗飯",
+        "emoji": "🍚",
+        "price": 26,
+        "claim": "少油配方",
+        "health": 55,
+        "why": "每100克鈉560毫克，350克一盒約1960毫克鈉。少油不能代替檢查鈉。",
+        "ingredients": "米飯、雞肉、番茄醬、芝士、植物油、鹽。含奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "175克",
+          "servingAmount": 175,
+          "servingsPerPack": 2,
+          "kcalPer100": 160,
+          "proteinPer100": 7,
+          "carbsPer100": 23,
+          "fatPer100": 4.5,
+          "satFatPer100": 2.2,
+          "transFatPer100": 0,
+          "sodiumPer100": 560,
+          "sugarPer100": 3,
+          "cholesterolPer100": 12,
+          "fibrePer100": 1
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L13-2",
+        "isBest": false
+      },
+      {
+        "name": "速食炒麵",
+        "emoji": "🥡",
+        "price": 18,
+        "claim": "鑊氣風味",
+        "health": 28,
+        "why": "每100克鈉820毫克及4克飽和脂肪。300克全盒約2460毫克鈉，應特別留意。",
+        "ingredients": "麵條、植物油、豉油、蔬菜、鹽。含麩質及大豆。",
+        "form": "solid",
+        "label": {
+          "servingSize": "150克",
+          "servingAmount": 150,
+          "servingsPerPack": 2,
+          "kcalPer100": 210,
+          "proteinPer100": 6,
+          "carbsPer100": 29,
+          "fatPer100": 8,
+          "satFatPer100": 4,
+          "transFatPer100": 0,
+          "sodiumPer100": 820,
+          "sugarPer100": 4,
+          "cholesterolPer100": 0,
+          "fibrePer100": 2
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L13-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "stage": "challenge",
+    "title": "甜品區",
+    "familyFace": "👵",
+    "need": "婆婆想食杯乳酪作甜品，希望沒有額外加糖，飽和脂肪亦較少。",
+    "tip": "低脂不等於低糖。原味乳酪也有乳糖，要把數字和配料一起看。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "原味無加糖乳酪",
+        "emoji": "🥣",
+        "price": 11,
+        "claim": "無加糖",
+        "health": 91,
+        "why": "每100克糖4.5克來自乳糖，配料沒有額外加糖；飽和脂肪1克，也比雪糕低。",
+        "ingredients": "牛奶、乳酸菌。含奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "125克",
+          "servingAmount": 125,
+          "servingsPerPack": 1,
+          "kcalPer100": 60,
+          "proteinPer100": 4.5,
+          "carbsPer100": 4.5,
+          "fatPer100": 2.5,
+          "satFatPer100": 1,
+          "transFatPer100": 0,
+          "sodiumPer100": 50,
+          "sugarPer100": 4.5,
+          "cholesterolPer100": 6,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L14-1",
+        "isBest": true
+      },
+      {
+        "name": "低脂果味乳酪",
+        "emoji": "🍓",
+        "price": 7,
+        "claim": "低脂",
+        "health": 50,
+        "why": "每100克總脂肪只有1克，但糖有16克。低脂聲稱符合這款設定，仍不代表低糖。",
+        "ingredients": "脫脂牛奶、糖、士多啤梨果醬、乳酸菌。含奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "125克",
+          "servingAmount": 125,
+          "servingsPerPack": 1,
+          "kcalPer100": 85,
+          "proteinPer100": 3.5,
+          "carbsPer100": 16,
+          "fatPer100": 1,
+          "satFatPer100": 0.6,
+          "transFatPer100": 0,
+          "sodiumPer100": 55,
+          "sugarPer100": 16,
+          "cholesterolPer100": 2,
+          "fibrePer100": 0.5
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L14-2",
+        "isBest": false
+      },
+      {
+        "name": "雲呢拿雪糕",
+        "emoji": "🍦",
+        "price": 9,
+        "claim": "香滑奶味",
+        "health": 30,
+        "why": "每100克糖22克、飽和脂肪7克。偶爾享用亦要注意份量，今次無加糖目標下不太合適。",
+        "ingredients": "牛奶、忌廉、糖、雲呢拿香料。含奶類。",
+        "form": "solid",
+        "label": {
+          "servingSize": "80克",
+          "servingAmount": 80,
+          "servingsPerPack": 1,
+          "kcalPer100": 200,
+          "proteinPer100": 3,
+          "carbsPer100": 24,
+          "fatPer100": 10,
+          "satFatPer100": 7,
+          "transFatPer100": 0.1,
+          "sodiumPer100": 65,
+          "sugarPer100": 22,
+          "cholesterolPer100": 35,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L14-3",
+        "isBest": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "stage": "challenge",
+    "title": "茶飲終極挑戰",
+    "familyFace": "🧑",
+    "need": "放工終於買齊餸！最後為自己揀一支無糖茶，檢查「0糖」又代表甚麼。",
+    "tip": "香港「無糖」聲稱：每100克或毫升糖不超過0.5克。無糖不代表沒有甜味劑，也不代表整體營養較好。",
+    "timeSec": 20,
+    "products": [
+      {
+        "name": "無糖烏龍茶",
+        "emoji": "🍵",
+        "price": 7,
+        "claim": "無糖・純茶",
+        "health": 96,
+        "why": "每100毫升糖0克，配料只有水和茶葉。和0糖果味茶相比，這款配方較簡單，也較便宜。",
+        "ingredients": "水、烏龍茶葉。含咖啡因。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 2,
+          "kcalPer100": 0,
+          "proteinPer100": 0,
+          "carbsPer100": 0,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 5,
+          "sugarPer100": 0,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L15-1",
+        "isBest": true
+      },
+      {
+        "name": "蜂蜜檸檬茶",
+        "emoji": "🍯",
+        "price": 8,
+        "claim": "真蜂蜜",
+        "health": 40,
+        "why": "蜂蜜也是糖的來源。每100毫升8克糖，一樽500毫升有40克糖，天然不等於低糖。",
+        "ingredients": "水、糖、蜂蜜、檸檬汁、紅茶。含咖啡因。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 2,
+          "kcalPer100": 32,
+          "proteinPer100": 0,
+          "carbsPer100": 8,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 12,
+          "sugarPer100": 8,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L15-2",
+        "isBest": false
+      },
+      {
+        "name": "0糖果味茶",
+        "emoji": "🧃",
+        "price": 8,
+        "claim": "0糖",
+        "health": 88,
+        "why": "每100毫升糖0克，符合本例無糖設定；甜味來自甜味劑。不能單憑有甜味劑便判斷有害，兩款無糖茶均可考慮。",
+        "ingredients": "水、茶、香料、甜味劑（蔗糖素）。含咖啡因。",
+        "form": "liquid",
+        "label": {
+          "servingSize": "250毫升",
+          "servingAmount": 250,
+          "servingsPerPack": 2,
+          "kcalPer100": 0,
+          "proteinPer100": 0,
+          "carbsPer100": 0,
+          "fatPer100": 0,
+          "satFatPer100": 0,
+          "transFatPer100": 0,
+          "sodiumPer100": 15,
+          "sugarPer100": 0,
+          "cholesterolPer100": 0,
+          "fibrePer100": 0
+        },
+        "source": {
+          "type": "fictional",
+          "note": "原創虛構教學產品；營養數值及售價為模擬資料，非實際品牌或化驗結果。",
+          "date": "2026-10-26"
+        },
+        "id": "L15-3",
+        "isBest": false
+      }
+    ]
+  }
+]
